@@ -31,3 +31,23 @@ body {
     text-wrap: balance;
   }
 }
+
+@layer base {
+  @font-face {
+    font-family: 'Inter';
+    src: url('/Inter.ttf');
+  }
+  @font-face {
+    font-family: 'hubot';
+    src: url('/Hubot-Sans.ttf');
+  }
+
+}
+
+
+.solana{
+  background: -webkit-linear-gradient(35deg, rgba(153,69,255,1) 0%, rgba(20,241,149,1) 90%); 
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
