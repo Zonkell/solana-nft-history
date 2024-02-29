@@ -1013,6 +1013,16 @@
     "days": 223,
     "data": [
       {
+        "name": "Boryoku Dragonz",
+        "collectionSymbol": "boryoku_dragonz",
+        "description": "An exclusive collection of 1,111 Dragon NFTs on Solana, backed by a top team of NFT collectors, designers, community builders, and artists.",
+        "image": "https://lh3.googleusercontent.com/CP4U4i8Nsp7up6te7ixoy4H6LbB4gVwQLbFDZtH3WE5YPXHZ8RadESL4y0W92pOoLLoZBMI0KqMhbl3F6DSlBKclkiLLnhcVog",
+        "totalSupply": 1111,
+        "twitter": "BoryokuDragonz",
+        "oneTokenFromCollection": "HCUXEW4Kit9CJUK18jKY98r3iw4CD8bzf1yKMta3PhQx",
+        "date": "03.11.2021"
+      },
+      {
         "name": "Shadowy Super Coder DAO",
         "collectionSymbol": "shadowy_super_coder_dao",
         "description": "Shadowy Super Coder DAO",
@@ -1330,6 +1340,16 @@
         "totalSupply": 4992,
         "twitter": "MixMobOrigin",
         "oneTokenFromCollection": "22ch5hRpX4MTn5RUJ752QXTZuFeS223hkn9nr5m62HLa",
+        "date": "02.12.2021"
+      },
+      {
+        "name": "STEPN",
+        "collectionSymbol": "stepn",
+        "description": "[FYI] We're working with StepN to resolve an issue of being rate limited when fetching NFT metadata from their API, and before we have a resolution, the item-details page for some stepn NFTs won't open.\n---\nSTEPN is the world\u2019s first move2earn NFT mobile game. In STEPN, your steps are worth more than you think \u2013 exercising and moving outdoors can now earn anyone tokens anytime, anywhere. STEPN aims to nudge millions into healthier lifestyles and bring them to the Web 3.0 world.",
+        "image": "https://lh3.googleusercontent.com/2MyUd3epc1SAGOJChg3Pu6GXH-Ip4Q0AcVSUyKCSGMTw6wvPTpOAjntzt6FVg8866LRP2_F5rK4lrNyNDEmg2PwTAtEdZ5j6mB8",
+        "totalSupply": 982781,
+        "twitter": "Stepnofficial",
+        "oneTokenFromCollection": "6FRfsdWkV4Yu7Fxpd5c4n7knVFJXYKMUmq8gYKAsmfJU",
         "date": "02.12.2021"
       },
       {
@@ -1942,6 +1962,16 @@
   {
     "days": 298,
     "data": [
+      {
+        "name": "Boryoku Baby Dragonz",
+        "collectionSymbol": "boryoku_baby_dragonz",
+        "description": "A collection of 5,000 B\u014dryoku Baby Dragonz on the Solana blockchain, offspring of the Genesis Dragonz.",
+        "image": "https://lh3.googleusercontent.com/YrBeYQ2LfUrVl6YBRy5o5WvaeJmlOUtbxa3z7sAofdbN41grvBGd-n4TosOQt8Y5xGAMNMvWVdRuy3TBNMuRXxBQjxlyCmBpmw",
+        "totalSupply": 3690,
+        "twitter": "BoryokuDragonz",
+        "oneTokenFromCollection": "22crHXabhYYZxrRUFgoqK2A19mh5waRCq8BTSh7kiP8W",
+        "date": "17.01.2022"
+      },
       {
         "name": "Famous Fox Dens",
         "collectionSymbol": "famous_fox_dens",
@@ -7913,6 +7943,16 @@
     "days": 826,
     "data": [
       {
+        "name": "SMB Gen3",
+        "collectionSymbol": "smb_gen3",
+        "description": "SMB Gen3 is a collection of 15,000 visually stunning pixel art Monke NFTs crafted with love and passion. Express your unique web3 identity and join the thriving MonkeDAO community. Showcase your status as a true builder in web3 and be a part of the revolution with Solana Monke Business.",
+        "image": "https://lh3.googleusercontent.com/emXujWiRSEk3BskFFxXv8fZKgaMaHNvQKDoHZ3MXNT6WVGo6Rm0jKCt_NZBTnHOu2jeOSoMkz4KZAr2mMVeu467Lg457ny9aRw",
+        "totalSupply": 7380,
+        "twitter": "SolanaMBS",
+        "oneTokenFromCollection": "F3TTsWfbV3QfQpgfQC9ZCKPhNVKkzbgd5uDz8ct84CBy",
+        "date": "29.06.2023"
+      },
+      {
         "name": "BeJoe",
         "collectionSymbol": "bejoe",
         "description": "BeJoe lives at the crossroads of storytelling, art, development, culture and experiences.",
@@ -8288,16 +8328,6 @@
     "days": 943,
     "data": [
       {
-        "name": "Boryoku Baby Dragonz",
-        "collectionSymbol": "boryoku_baby_dragonz",
-        "description": "A collection of 5,000 B\u014dryoku Baby Dragonz on the Solana blockchain, offspring of the Genesis Dragonz.",
-        "image": "https://lh3.googleusercontent.com/YrBeYQ2LfUrVl6YBRy5o5WvaeJmlOUtbxa3z7sAofdbN41grvBGd-n4TosOQt8Y5xGAMNMvWVdRuy3TBNMuRXxBQjxlyCmBpmw",
-        "totalSupply": 3690,
-        "twitter": "BoryokuDragonz",
-        "oneTokenFromCollection": "22crHXabhYYZxrRUFgoqK2A19mh5waRCq8BTSh7kiP8W",
-        "date": "24.10.2023"
-      },
-      {
         "name": "Last Haven",
         "collectionSymbol": "last_haven",
         "description": "Welcome to the post-apocalyptic world of Last Haven, a groundbreaking game inspired by the immersive universes of \"The Walking Dead\" and \"The Last of Us\". \n\nLast Haven is an idle game enabling players to deploy their NFTs on a multitude of missions, yielding $RAZE. Each mission demands strategic planning and resource management by the player to optimize their earning potential.",
@@ -8520,16 +8550,6 @@
         "totalSupply": 2610,
         "twitter": null,
         "oneTokenFromCollection": "7J49sVXud7Tmj1va68xPgRVrN3UKNotCjhQpqBt5jjRX",
-        "date": "05.12.2023"
-      },
-      {
-        "name": "Boryoku Dragonz",
-        "collectionSymbol": "boryoku_dragonz",
-        "description": "An exclusive collection of 1,111 Dragon NFTs on Solana, backed by a top team of NFT collectors, designers, community builders, and artists.",
-        "image": "https://lh3.googleusercontent.com/CP4U4i8Nsp7up6te7ixoy4H6LbB4gVwQLbFDZtH3WE5YPXHZ8RadESL4y0W92pOoLLoZBMI0KqMhbl3F6DSlBKclkiLLnhcVog",
-        "totalSupply": 1111,
-        "twitter": "BoryokuDragonz",
-        "oneTokenFromCollection": "5fRjPRNyapxV1AWL9LMkm3cBG4c9kfN5CnX7DjjqAf4r",
         "date": "05.12.2023"
       }
     ]
@@ -8965,21 +8985,6 @@
     ]
   },
   {
-    "days": 1041,
-    "data": [
-      {
-        "name": "STEPN",
-        "collectionSymbol": "stepn",
-        "description": "[FYI] We're working with StepN to resolve an issue of being rate limited when fetching NFT metadata from their API, and before we have a resolution, the item-details page for some stepn NFTs won't open.\n---\nSTEPN is the world\u2019s first move2earn NFT mobile game. In STEPN, your steps are worth more than you think \u2013 exercising and moving outdoors can now earn anyone tokens anytime, anywhere. STEPN aims to nudge millions into healthier lifestyles and bring them to the Web 3.0 world.",
-        "image": "https://lh3.googleusercontent.com/2MyUd3epc1SAGOJChg3Pu6GXH-Ip4Q0AcVSUyKCSGMTw6wvPTpOAjntzt6FVg8866LRP2_F5rK4lrNyNDEmg2PwTAtEdZ5j6mB8",
-        "totalSupply": 982781,
-        "twitter": "Stepnofficial",
-        "oneTokenFromCollection": "6FRfsdWkV4Yu7Fxpd5c4n7knVFJXYKMUmq8gYKAsmfJU",
-        "date": "30.01.2024"
-      }
-    ]
-  },
-  {
     "days": 1042,
     "data": [
       {
@@ -9036,21 +9041,6 @@
         "twitter": "GhostKidDAO",
         "oneTokenFromCollection": "FKCV9Z1b6pFwaxcFMCPFGWbPcneGQCkoF6XH9tCykTws",
         "date": "10.02.2024"
-      }
-    ]
-  },
-  {
-    "days": 1053,
-    "data": [
-      {
-        "name": "SMB Gen3",
-        "collectionSymbol": "smb_gen3",
-        "description": "SMB Gen3 is a collection of 15,000 visually stunning pixel art Monke NFTs crafted with love and passion. Express your unique web3 identity and join the thriving MonkeDAO community. Showcase your status as a true builder in web3 and be a part of the revolution with Solana Monke Business.",
-        "image": "https://lh3.googleusercontent.com/emXujWiRSEk3BskFFxXv8fZKgaMaHNvQKDoHZ3MXNT6WVGo6Rm0jKCt_NZBTnHOu2jeOSoMkz4KZAr2mMVeu467Lg457ny9aRw",
-        "totalSupply": 7380,
-        "twitter": "SolanaMBS",
-        "oneTokenFromCollection": "F3TTsWfbV3QfQpgfQC9ZCKPhNVKkzbgd5uDz8ct84CBy",
-        "date": "11.02.2024"
       }
     ]
   },
