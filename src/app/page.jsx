@@ -89,7 +89,7 @@ const Image = (props) => {
             onClick={(e) => togglePopover(e)}>
 
             {isPopoverVisible && <Popover item={item} />}
-            <p>{item.name}</p>
+            <p className="sm:text-md text-sm">{item.name}</p>
             <img
                 className="rounded-full w-32"
                 src={item.image}
@@ -102,8 +102,8 @@ const Image = (props) => {
 }
 
 const Card = ({ item }) => (
-    <div className="rounded-full text-black h-32 w-32 flex items-center justify-center m-3">
-      <div className="flex flex-col h-auto w-32">
+    <div className="rounded-full text-black h-20 w-20 sm:w-32 sm:h-32 flex items-center justify-center m-3">
+      <div className="flex flex-col h-auto w-20 sm:w-32">
         {item.data.map((imageItem, idx) => (
           <Image item={imageItem} key={idx} />
         ))}
@@ -117,8 +117,8 @@ export default function Horizontal() {
     return (
         <div className="relative font-sans">
             <div ref={scrollRef} className="bg-[#020202] h-screen flex overflow-auto items-center px-24">
-              <div className="fixed top-20 left-1/2 -translate-x-1/2">
-                <h1 className="text-5xl text-white">Historical <span className="solana">Solana</span> NFT Projects</h1>
+              <div className="fixed top-20 w-4/5 text-center">
+                <h1 className="sm:text-5xl text-3xl text-white">Historical <span className="solana">Solana</span> NFT Projects</h1>
               </div>
                 {data.map((cardItem, idx) => (
                     <Card item={cardItem} key={idx} />
