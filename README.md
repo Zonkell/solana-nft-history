@@ -40,6 +40,7 @@ For a collection to be included here it was required for it to have:
 
 - [x] Gather data from Solana collections
 - [x] Create initial MVP for website
+- [ ] Add more 1/1 projects and also information about NFT marketplaces. 
 - [ ] Make a proper website with good UX and UI
 - [ ] Add further analysis to website 
 - [ ] Fix all issues in the data
